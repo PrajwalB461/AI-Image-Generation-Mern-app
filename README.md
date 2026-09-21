@@ -15,7 +15,8 @@ DALL-E Community is a full-stack MERN application that lets users generate AI im
 
 ## Screenshots
 
-<Generated Images.png>
+<img width="1014" height="1551" alt="Generated Images" src="https://github.com/user-attachments/assets/7b20ee59-3f95-4ef7-8db5-c4eef006a3a6" />
+
 ## Technologies Used
 
 - React
